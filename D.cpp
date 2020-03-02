@@ -1,6 +1,7 @@
 
 #include <iostream> 
 #include <set> 
+#include<stdio.h>
 #include<vector>
 #define vi vector < int >
 #define pii pair < int , int >
